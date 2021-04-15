@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 -->
 
 Lookup my  [code snippets](https://gist.github.com/pas-calc) and [repositories](https://github.com/pas-calc?tab=repositories).
+
+
+Pascal's popular and powerful [Geo Tool](http://geo.klein-computing.de/gpx_tool.html), Google Maps and OpenStreetMaps *bookmarklet*: `javascript:void(window.open('http://geo.klein-computing.de/gpx_tool.html#google:'+btoa(location.href)));`.
