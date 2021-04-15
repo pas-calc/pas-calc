@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄
 
 <!--
 **pas-calc/pas-calc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+👋
 -->
+
+Lookup my  [code snippets](https://gist.github.com/pas-calc) and [repositories](https://github.com/pas-calc?tab=repositories).
